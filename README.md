@@ -1,4 +1,4 @@
 # IBM-Course-files
 Repository for IBM data science course files.
 
-This is the first markdown file.
+In this repository, you will find the IBM peer graded assignment.
